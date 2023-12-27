@@ -11,8 +11,6 @@
 - Axios
 
 // how to start this project
-- run backend
-nodemon index
+- run backend : nodemon index
 
-- run frontend
-npm start
+- run frontend : npm start
